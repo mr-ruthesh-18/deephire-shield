@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+data_ready/
+bert_features/
+bert_test/
+results/
+results_s*/
+*.zip
+*.csv
+!results_v2/*.csv
+*.mp4
+step3_smobd_smote.py
+step4_train_evaluate.py
